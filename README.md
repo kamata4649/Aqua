@@ -3,6 +3,9 @@ PHPで描かれたマインクラフトPE向けソフトウェアです
 
 高速化に積極的に取り組んでいるため。不具合が発生する場合があります
 
+このコードの大半は[PocketMine-MP](https://github.com/PocketMine/PocketMine-MP)により書かれています
+https://github.com/PocketMine/PocketMine-MP
+
 # 特徴
 1. 日本語サポートに強い
 2. 高速化がされている
